@@ -1,8 +1,8 @@
 ### Hello, I'm Scott.
 
-I am an aspiring full-stack web developer. Previously I have worked in live events and creative production.
+In August 2020 I committed myself to learning full-stack web development and design. As of January 2022 I'm ~2600 hours in. I've completed the Odin Project's [Full-Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?) curriculum, taken small detours into Ruby and Python, and finished additional courses in React, MERN, and OOP.
 
-#### Tech I've worked with, more or less in order of experience...
+#### Tech I've worked with, more or less in order of experience/confidence...
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-33363D?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-33363D?style=for-the-badge&logo=react)
@@ -27,6 +27,17 @@ I am an aspiring full-stack web developer. Previously I have worked in live even
 ![Vercel](https://img.shields.io/badge/-Vercel-white?style=for-the-badge&logo=vercel&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-33363D?style=for-the-badge&logo=webpack)
+![AppleScript](https://img.shields.io/badge/-AppleScript-white?style=for-the-badge&logo=apple&logoColor=black)
+
+#### Additional skills, experiences, and personality traits...
+From a decade of work in creative production, project management, and live events, as well as an MA in Interactive Media from NYU. (See full [resume](https://www.scottsilsbe.com/#resume) for details.)
+
+Technical Writing & Research • Problem Solving • the Scientific Method • Problem Solving • Communication • Experience & Interaction Design • Playtesting & Prototyping • Graphic Design • Google search (Grandmaster level) • Team Leadership • the Big Picture (How everything fits together. Does that make sense?)
+
+#### What I'm learning / practicing / improving...
+- Typescript
+- Unit testing
+- More unit testing
 
 #### Assorted links...
 
