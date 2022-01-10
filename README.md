@@ -32,7 +32,7 @@ In August 2020 I committed myself to learning full-stack web development and des
 ### Additional skills, experiences, and personality traits...
 From a decade of work in creative production, project management, and live events, as well as an MA in Interactive Media from NYU. (See full [resume](https://www.scottsilsbe.com/#resume) for details.)
 
-Technical Writing & Research • Problem Solving • the Scientific Method • Problem Solving • Communication • Experience & Interaction Design • Playtesting & Prototyping • Graphic Design • Google search (Grandmaster level) • Team Leadership • the Big Picture (How everything fits together. Does that make sense?)
+Technical Writing & Research • Problem Solving • The Scientific Method • Problem Solving • Communication • Experience & Interaction Design • Playtesting & Prototyping • Graphic Design • Google Search (Grandmaster level) • Team Leadership • The Big Picture (How everything fits together)
 
 ### What I'm learning / practicing / improving...
 - Typescript
