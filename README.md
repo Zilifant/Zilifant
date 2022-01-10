@@ -2,7 +2,7 @@
 
 In August 2020 I committed myself to learning full-stack web development and design. As of January 2022 I'm ~2600 hours in. I've completed the Odin Project's [Full-Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript?) curriculum, taken small detours into Ruby and Python, and finished additional courses in React, MERN, and OOP.
 
-#### Tech I've worked with, more or less in order of experience/confidence...
+### Tech I've worked with, more or less in order of experience/confidence...
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-33363D?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-33363D?style=for-the-badge&logo=react)
@@ -29,17 +29,17 @@ In August 2020 I committed myself to learning full-stack web development and des
 ![Webpack](https://img.shields.io/badge/-Webpack-33363D?style=for-the-badge&logo=webpack)
 ![AppleScript](https://img.shields.io/badge/-AppleScript-white?style=for-the-badge&logo=apple&logoColor=black)
 
-#### Additional skills, experiences, and personality traits...
+### Additional skills, experiences, and personality traits...
 From a decade of work in creative production, project management, and live events, as well as an MA in Interactive Media from NYU. (See full [resume](https://www.scottsilsbe.com/#resume) for details.)
 
 Technical Writing & Research • Problem Solving • the Scientific Method • Problem Solving • Communication • Experience & Interaction Design • Playtesting & Prototyping • Graphic Design • Google search (Grandmaster level) • Team Leadership • the Big Picture (How everything fits together. Does that make sense?)
 
-#### What I'm learning / practicing / improving...
+### What I'm learning / practicing / improving...
 - Typescript
 - Unit testing
 - More unit testing
 
-#### Assorted links...
+### Assorted links...
 
 [![Personal Website Badge](https://img.shields.io/badge/-Website-FF2D55?style=for-the-badge&link=https://www.scottsilsbe.com)](https://www.scottsilsbe.com)
 [![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:scott.silsbe@gmail.com)](mailto:scott.silsbe@gmail.com)
