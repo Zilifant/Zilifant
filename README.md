@@ -9,7 +9,7 @@ I'm a full stack web developer.
 ![React](https://img.shields.io/badge/-React-33363D?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/-Node-263053?style=for-the-badge&logo=Node.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-white?style=for-the-badge&logo=svelte)
-![SvelteKit](https://img.shields.io/badge/-Svelte-white?style=for-the-badge&logo=svelte)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-white?style=for-the-badge&logo=svelte)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![SASS/SCSS](https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +31,7 @@ I'm a full stack web developer.
 ![AppleScript](https://img.shields.io/badge/-AppleScript-white?style=for-the-badge&logo=apple&logoColor=black)
 
 ### Additional skills, experiences, and personality traits...
-From a decade of work in creative production, project management, and live events, as well as an MA in Interactive Media from NYU. (See full [resume](https://www.scottsilsbe.com/#resume) for details.)
+From a decade of work in creative production, project management, and live events, as well as an MA in Interactive Media from NYU. (See full [resume](https://www.scottsilsbe.com/resume) for details.)
 
 Technical Writing & Research • Problem Solving • The Scientific Method • Problem Solving • Communication • Experience & Interaction Design • Playtesting & Prototyping • Graphic Design • Google Search (Grandmaster level) • Team Leadership • The Big Picture (How everything fits together)
 
